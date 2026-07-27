@@ -99,5 +99,24 @@ Proyecto_Final_Semillero.ipynb   - Notebook principal con todo el código fuente
 03_Cumplimiento_Publicitario.txt - Base de conocimiento de Cumplimiento
 registro_campanas.txt            - Base de datos persistente de solicitudes
 README.md                        - Documentación del proyecto
-```                 
+```
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+```text
+• Lenguaje:           Python 3.10+
+• Framework IA:       LangChain & LangGraph
+• Modelo LLM:         Google Gemini (gemini-3.1-flash-lite / gemini-2.0-flash)
+• Embeddings:         Google Generative AI Embeddings (gemini-embedding-2-preview)
+• Base Vectorial:     ChromaDB (Indexación independiente por agente)
+• Procesamiento Img:  Pillow (PIL)
+• Interfaz de Usuario: ipywidgets & Custom HTML/CSS
+```
+
+---
+
+## 🎬 Video Demostrativo
+
+> **Nota:** El proyecto incluye un video explicativo con una duración máxima de 10 minutos donde se demuestra el funcionamiento del prototipo en vivo y la interacción entre agentes.
 
