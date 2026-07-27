@@ -39,7 +39,7 @@ El ecosistema está dividido en 5 agentes especializados coordinados por un agen
   ChromaDB          ChromaDB          ChromaDB         Gemini          Archivos
 (Base Marca)      (Base Camp.)      (Base Cump.)       Vision           (.txt)
 
-
+```
 ## 🚀 Requisitos e Instalación
 
 ### Requisitos Previos
@@ -48,4 +48,6 @@ El ecosistema está dividido en 5 agentes especializados coordinados por un agen
 
 ### Instalación de Librerías
 ```bash
+pip install langchain langchain-google-genai langchain-community langchain-chroma chromadb pillow pandas ipywidgets
+
 pip install langchain langchain-google-genai langchain-community langchain-chroma chromadb pillow pandas ipywidgets
