@@ -62,10 +62,11 @@ jupyter notebook
 ```
 2. Configurar la clave de API de Google Gemini:
 Dentro del notebook, asigna tu API Key en la celda correspondiente:
+```bash
 import os
 os.environ["GOOGLE_API_KEY"] = "TU_API_KEY_AQUI"
 
-
+```
 ```text
 +-----------------------------------------------------------------------+
 | 🚀 Consola de Asistencia de Marketing - Patito S.A. | ● Sistema en Línea|
@@ -91,4 +92,3 @@ os.environ["GOOGLE_API_KEY"] = "TU_API_KEY_AQUI"
 ├── registro_campanas.txt            # Base de datos persistente de solicitudes
 └── README.md                        # Documentación del proyecto
 
-```
