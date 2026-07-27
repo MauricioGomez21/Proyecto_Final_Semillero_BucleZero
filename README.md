@@ -1,7 +1,7 @@
 # Mesa de Ayuda IA con Agentes Especializados para el Área de Marketing
 
 **Proyecto Final del Semillero de Inteligencia Artificial — Patito S.A.**  
-**Grupo:** BucleZero  
+**Grupo: BucleZero**  
 **Integrantes:**
 - Alvarado Barbosa Damian Alejandro
 - Avilez Castro Anthony José
