@@ -91,10 +91,10 @@ El proyecto incluye un Dashboard interactivo diseñado con ipywidgets y CSS esti
 ```
 ## 📂 Estructura del Repositorio
 
-**Proyecto_Final_Semillero.ipynb**     # Notebook principal con todo el código fuente
-**01_Manual_de_Marca.txt**             # Base de conocimiento de Marca
-**02_Guia_Campanas_KPIs.txt**          # Base de conocimiento de Campañas
-**03_Cumplimiento_Publicitario.txt**   # Base de conocimiento de Cumplimiento
-**registro_campanas.txt**              # Base de datos persistente de solicitudes
-**README.md**                          # Documentación del proyecto
+Proyecto_Final_Semillero.ipynb     # Notebook principal con todo el código fuente
+01_Manual_de_Marca.txt             # Base de conocimiento de Marca
+02_Guia_Campanas_KPIs.txt          # Base de conocimiento de Campañas
+03_Cumplimiento_Publicitario.txt   # Base de conocimiento de Cumplimiento
+registro_campanas.txt              # Base de datos persistente de solicitudes
+README.md                          # Documentación del proyecto
 
