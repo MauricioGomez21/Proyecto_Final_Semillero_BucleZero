@@ -65,7 +65,7 @@ Dentro del notebook, asigna tu API Key en la celda correspondiente:
 ```bash
 import os
 os.environ["GOOGLE_API_KEY"] = "TU_API_KEY_AQUI"
-
+```
 ```text
 +-----------------------------------------------------------------------+
 | 🚀 Consola de Asistencia de Marketing - Patito S.A. | ● Sistema en Línea|
