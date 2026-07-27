@@ -1,0 +1,35 @@
+PATITO S.A.
+MANUAL DE MARCA Y LINEAMIENTOS VISUALES
+(Documento ficticio para fines de evaluacion del semillero)
+Base de conocimiento del Agente de Marca y Lineamientos
+
+1. IDENTIDAD DE MARCA
+Patito S.A. es una empresa de productos tecnologicos de consumo. Su personalidad de marca es cercana, confiable y optimista. Toda comunicacion debe transmitir simplicidad y calidez.
+
+2. LOGOTIPO
+2.1 Versiones oficiales: existen tres versiones del logotipo: a color (full color), monocromatico negro y monocromatico blanco (negativo).
+2.2 Uso sobre fondos:
+- Sobre fondo blanco o claro: usar el logotipo a color.
+- Sobre fondos de color de la paleta oficial: se permite el logotipo a color SOLO si el contraste es suficiente; si el fondo es oscuro o saturado, debe usarse la version blanca (negativo).
+- Sobre fotografias o fondos oscuros: usar siempre la version blanca.
+2.3 Area de proteccion: mantener alrededor del logo un margen libre equivalente a la altura de la letra "P" del logotipo.
+2.4 Tamano minimo: 24 px de alto en digital y 15 mm en impreso.
+2.5 Usos incorrectos (prohibidos): deformar o estirar el logo, rotarlo, cambiar sus colores, aplicarle sombras o efectos, o colocarlo sobre fondos que comprometan su legibilidad.
+
+3. PALETA DE COLORES
+3.1 Colores primarios:
+- Amarillo Patito: #FFC400
+- Azul Patito: #1F4E79
+3.2 Colores secundarios (apoyo): gris #555555, blanco #FFFFFF, verde menta #6FCF97.
+3.3 Regla clave: la paleta de marca NO debe modificarse para campanas estacionales. No se permite "ajustar" o crear nuevos colores primarios para una campana de verano u otra temporada. Para dar un aire estacional debe usarse la paleta secundaria de apoyo o fotografia, manteniendo intactos los colores primarios y el logotipo.
+
+4. TIPOGRAFIAS
+- Tipografia principal: Montserrat (titulares).
+- Tipografia secundaria: Open Sans (cuerpo de texto).
+- En documentos internos de oficina se acepta Arial como alternativa.
+
+5. TONO DE VOZ
+Claro, positivo y respetuoso. Evitar tecnicismos innecesarios, mayusculas sostenidas y lenguaje exagerado o sensacionalista.
+
+6. PLANTILLAS OFICIALES
+Las piezas deben construirse sobre las plantillas aprobadas por Marketing (redes sociales, presentaciones, email). Cualquier excepcion requiere aprobacion del area de Marca.

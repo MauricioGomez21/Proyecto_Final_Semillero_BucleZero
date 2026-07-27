@@ -1,0 +1,5 @@
+CMP-0001 | 2026-07-26 21:28:24 | Lanzamiento App | Obj: leads | Canales: email | Público: Jóvenes 18-25 años | USD 500.00 | 2026-08-01 a 2026-08-15
+CMP-0002 | 2026-07-26 21:29:13 | Promo Verano | Obj: leads | Canales: Instagram, Email | Público: Jóvenes 25-35 años | USD 800.00 | 2025-07-01 a 2025-07-15
+CMP-0003 | 2026-07-26 21:30:01 | Campaña de generación de leads - Instagram | Obj: leads | Canales: Instagram | Público: 25 a 35 años | USD 800.00 | 2025-07-01 a 2025-07-15
+CMP-0004 | 2026-07-26 21:30:24 | Promoción SmartHome | Obj: leads | Canales: Email | Público: 30 a 50 años | USD 950.00 | 2025-10-05 a 2025-10-15
+CMP-0005 | 2026-07-26 21:31:10 | Patito Watch Awareness | Obj: awareness | Canales: TikTok, Instagram | Público: 20 a 30 años | USD 1200.00 | 2025-09-01 a 2025-09-10

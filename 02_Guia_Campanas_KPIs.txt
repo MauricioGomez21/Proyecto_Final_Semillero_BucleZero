@@ -1,0 +1,36 @@
+PATITO S.A.
+GUIA DE CAMPANAS, CANALES Y KPIS DE MARKETING
+(Documento ficticio para fines de evaluacion del semillero)
+Base de conocimiento del Agente de Campanas y Performance
+
+1. TIPOS DE CAMPANA SEGUN OBJETIVO
+- Awareness (reconocimiento de marca).
+- Generacion de leads (captacion de contactos).
+- Conversion / ventas.
+- Fidelizacion / retencion.
+
+2. CANALES DISPONIBLES
+Redes sociales (Meta, Instagram, TikTok, LinkedIn), Google Ads (search y display), email marketing, sitio web/landing pages y marketing de contenidos.
+
+3. PROCESO DE UNA CAMPANA
+3.1 Brief y objetivo medible.
+3.2 Definicion de publico y presupuesto.
+3.3 Produccion de piezas (segun Manual de Marca).
+3.4 Lanzamiento.
+3.5 Monitoreo.
+3.6 Reporte de cierre con KPIs.
+
+4. KPIS POR OBJETIVO
+4.1 Awareness: alcance, impresiones, frecuencia, CPM.
+4.2 Generacion de leads (KPIs de cierre obligatorios):
+- Numero de leads generados.
+- Costo por lead (CPL).
+- Tasa de conversion de visita a lead.
+- Tasa de conversion de lead a MQL (lead calificado por marketing).
+- CTR (tasa de clics).
+- Inversion total y CPL por canal.
+- ROI / ROAS de la campana.
+4.3 Conversion/ventas: numero de ventas, costo por adquisicion (CPA), ticket promedio, ROAS.
+
+5. REPORTE DE CIERRE
+Todo cierre de campana debe incluir: objetivo planteado vs. resultado, los KPIs del objetivo correspondiente, comparacion contra la meta, aprendizajes y recomendaciones. Para campanas de generacion de leads en redes sociales se reportan como minimo: leads generados, CPL, tasa de conversion a lead y a MQL, CTR y ROAS.
