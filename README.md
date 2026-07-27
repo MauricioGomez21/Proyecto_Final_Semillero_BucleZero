@@ -50,4 +50,42 @@ El ecosistema está dividido en 5 agentes especializados coordinados por un agen
 ```bash
 pip install langchain langchain-google-genai langchain-community langchain-chroma chromadb pillow pandas ipywidgets
 
-pip install langchain langchain-google-genai langchain-community langchain-chroma chromadb pillow pandas ipywidgets
+```
+⚙️ Configuración y Uso
+1. Clonar el repositorio y abrir el Jupyter Notebook:
+```bash
+git clone <URL_DEL_REPOSITORIO>
+cd <NOMBRE_DEL_REPOSITORIO>
+jupyter notebook
+```
+2. Configurar la clave de API de Google Gemini:
+Dentro del notebook, asigna tu API Key en la celda correspondiente:
+```bash
+import os
+os.environ["GOOGLE_API_KEY"] = "TU_API_KEY_AQUI"
+
+
+```text
++-----------------------------------------------------------------------+
+| 🚀 Consola de Asistencia de Marketing - Patito S.A. | ● Sistema en Línea|
++-----------------------------------------------------------------------+
+| 🤖 ASISTENTE PATITO S.A.                                             |
+| ¡Hola! Soy el orquestador de Marketing. ¿En qué te puedo ayudar hoy?   |
+|                                                                       |
+| 👤 USUARIO                                                            |
+| Quiero lanzar una campaña de email para leads, ¿qué KPIs debo medir?  |
+|                                                                       |
+| 🤖 ASISTENTE PATITO S.A.                                             |
+| De acuerdo a la Guía de Campañas, debes medir: CPL, MQL, CTR y ROAS...|
++-----------------------------------------------------------------------+
+| [ Escribe tu consulta aquí...                           ] [ Enviar ]  |
++-----------------------------------------------------------------------+
+
+```
+##📂 Estructura del Repositorio
+├── Proyecto_Final_Semillero.ipynb   # Notebook principal con todo el código fuente
+├── 01_Manual_de_Marca.txt           # Base de conocimiento de Marca
+├── 02_Guia_Campanas_KPIs.txt        # Base de conocimiento de Campañas
+├── 03_Cumplimiento_Publicitario.txt # Base de conocimiento de Cumplimiento
+├── registro_campanas.txt            # Base de datos persistente de solicitudes
+└── README.md                        # Documentación del proyecto
