@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 El presente proyecto implementa un prototipo funcional de una **Mesa de Ayuda de IA** coordinada por un **Orquestador Multi-agente con Memoria**, diseñado para resolver consultas del Departamento de Marketing de Patito S.A. 
 
@@ -17,7 +17,7 @@ El sistema combina el patrón **RAG (Retrieval-Augmented Generation)**, capacida
 
 ---
 
-## 🏗️ Arquitectura y Funcionamiento
+##  Arquitectura y Funcionamiento
 
 El ecosistema está dividido en 5 agentes especializados coordinados por un agente central (Orquestador):
 
@@ -40,7 +40,7 @@ El ecosistema está dividido en 5 agentes especializados coordinados por un agen
 (Base Marca)      (Base Camp.)      (Base Cump.)       Vision           (.txt)
 
 ```
-# 🚀 Requisitos e Instalación
+#  Requisitos e Instalación
 
 ### Requisitos Previos
 * Python 3.10+
@@ -52,7 +52,7 @@ pip install langchain langchain-google-genai langchain-community langchain-chrom
 
 ```
 
-## ⚙️ Configuración y Uso
+##   Configuración y Uso
 
 1. Clonar el repositorio y abrir el Jupyter Notebook:
 ```bash
@@ -68,7 +68,7 @@ import os
 os.environ["GOOGLE_API_KEY"] = "TU_API_KEY_AQUI"
 
 ```
-## 🖥️ Demostración de Interfaz y Uso
+##   Demostración de Interfaz y Uso
 Interfaz Interactiva en Jupyter Notebook
 El proyecto incluye un Dashboard interactivo diseñado con ipywidgets y CSS estilizado:
 
@@ -76,13 +76,13 @@ El proyecto incluye un Dashboard interactivo diseñado con ipywidgets y CSS esti
 +-----------------------------------------------------------------------+
 | 🚀 Consola de Asistencia de Marketing - Patito S.A. | ● Sistema en Línea|
 +-----------------------------------------------------------------------+
-| 🤖 ASISTENTE PATITO S.A.                                             |
+| ASISTENTE PATITO S.A.                                             |
 | ¡Hola! Soy el orquestador de Marketing. ¿En qué te puedo ayudar hoy?   |
 |                                                                       |
-| 👤 USUARIO                                                            |
+| USUARIO                                                            |
 | Quiero lanzar una campaña de email para leads, ¿qué KPIs debo medir?  |
 |                                                                       |
-| 🤖 ASISTENTE PATITO S.A.                                             |
+| ASISTENTE PATITO S.A.                                             |
 | De acuerdo a la Guía de Campañas, debes medir: CPL, MQL, CTR y ROAS...|
 +-----------------------------------------------------------------------+
 | [ Escribe tu consulta aquí...                           ] [ Enviar ]  |
@@ -90,7 +90,7 @@ El proyecto incluye un Dashboard interactivo diseñado con ipywidgets y CSS esti
 
 ```
 
-## 📁 Estructura del Repositorio
+##  Estructura del Repositorio
 
 ```text
 Proyecto_Final_Semillero.ipynb   - Notebook principal con todo el código fuente
@@ -102,7 +102,7 @@ README.md                        - Documentación del proyecto
 ```
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 ```text
 • Lenguaje:           Python 3.10+
@@ -116,7 +116,7 @@ README.md                        - Documentación del proyecto
 
 ---
 
-## 🎬 Video Demostrativo
+##   Video Demostrativo
 
 > **Nota:** El proyecto incluye un video explicativo con una duración máxima de 10 minutos donde se demuestra el funcionamiento del prototipo en vivo y la interacción entre agentes.
 
