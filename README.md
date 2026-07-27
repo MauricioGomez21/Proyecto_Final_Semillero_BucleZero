@@ -40,7 +40,7 @@ El ecosistema está dividido en 5 agentes especializados coordinados por un agen
 (Base Marca)      (Base Camp.)      (Base Cump.)       Vision           (.txt)
 
 ```
-## 🚀 Requisitos e Instalación
+# 🚀 Requisitos e Instalación
 
 ### Requisitos Previos
 * Python 3.10+
@@ -52,7 +52,8 @@ pip install langchain langchain-google-genai langchain-community langchain-chrom
 
 ```
 
-⚙️ Configuración y Uso
+## ⚙️ Configuración y Uso
+
 1. Clonar el repositorio y abrir el Jupyter Notebook:
 ```bash
 git clone <URL_DEL_REPOSITORIO>
@@ -67,9 +68,10 @@ import os
 os.environ["GOOGLE_API_KEY"] = "TU_API_KEY_AQUI"
 
 ```
-##🖥️ Demostración de Interfaz y Uso
+## 🖥️ Demostración de Interfaz y Uso
 Interfaz Interactiva en Jupyter Notebook
 El proyecto incluye un Dashboard interactivo diseñado con ipywidgets y CSS estilizado:
+
 ```text
 +-----------------------------------------------------------------------+
 | 🚀 Consola de Asistencia de Marketing - Patito S.A. | ● Sistema en Línea|
@@ -87,7 +89,8 @@ El proyecto incluye un Dashboard interactivo diseñado con ipywidgets y CSS esti
 +-----------------------------------------------------------------------+
 
 ```
-##📂 Estructura del Repositorio
+## 📂 Estructura del Repositorio
+`
 ├── Proyecto_Final_Semillero.ipynb   # Notebook principal con todo el código fuente
 ├── 01_Manual_de_Marca.txt           # Base de conocimiento de Marca
 ├── 02_Guia_Campanas_KPIs.txt        # Base de conocimiento de Campañas
